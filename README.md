@@ -10,19 +10,19 @@ Inspired by modern e-commerce websites, eNVision offers a professional shopping 
 Visit the site here:<br>
   https://mapogugugu.github.io/envision-eyewear/
 ## 🖥️ Preview
-1. Home Page
+1. Home Page: <br>
 <img width="356" height="1453" alt="image" src="https://github.com/user-attachments/assets/cb0393d4-0f25-4304-b94f-0be96421241d" /> <br>
-2. Product Page
+2. Product Page: <br>
   <img width="616" height="1452" alt="image" src="https://github.com/user-attachments/assets/3166f1e7-0206-4f9d-9dca-47a2e6d965aa" /> <br>
-3. Reward Page
+3. Reward Page: <br>
   <img width="377" height="1452" alt="image" src="https://github.com/user-attachments/assets/d52edbe0-93a2-4493-b3b9-f9b4a12222ef" /> <br>
 
-4. About Us
+4. About Us: <br>
   <img width="710" height="346" alt="image" src="https://github.com/user-attachments/assets/76d1840f-0148-418d-8824-c201c2064fb0" /><br>
 <img width="718" height="356" alt="image" src="https://github.com/user-attachments/assets/c59dcbee-8272-40f4-b31c-619b8fa0447b" /><br>
   <img width="711" height="386" alt="image" src="https://github.com/user-attachments/assets/61b3eba5-f871-442e-aa0c-9623cdff947f" /><br>
 
-5. Order Page
+5. Order Page: <br>
 <img width="744" height="399" alt="image" src="https://github.com/user-attachments/assets/ab024de0-fbc2-4497-b4e9-9d1ce049221a" /><br>
 <img width="653" height="320" alt="image" src="https://github.com/user-attachments/assets/9ffa8dcb-7cb3-4b08-a770-e4f5df266840" /><br>
 
