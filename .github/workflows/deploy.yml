@@ -18,7 +18,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: mapogugugu.github.io/envision-eyewear/
 
     runs-on: ubuntu-latest
 
