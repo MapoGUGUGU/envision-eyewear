@@ -1,14 +1,30 @@
 # eNVision – Optical Store Website
 A modern, responsive front-end website for an optical store that provides elegant and seamless online shopping experience. This project focuses on creating a clean, premium user interface.
 
-## 🌐 Live Web Demo
-Visit the site here:<br>
-  https://mapogugugu.github.io/envision-eyewear/
-
 ## 📖 Overview
 eNVision was developed as a front-end web dev project to make a demo of a responsive web design, user interface design, and interactive web functionality using only HTML, CSS, and JavaScript. <br>
 
 Inspired by modern e-commerce websites, eNVision offers a professional shopping experience where users can browse eyewear collections, explore product details, and interact with various website features.
+
+## 🌐 Live Web Demo
+Visit the site here:<br>
+  https://mapogugugu.github.io/envision-eyewear/
+## 🖥️ Preview
+- Home Page
+<img width="356" height="1453" alt="image" src="https://github.com/user-attachments/assets/cb0393d4-0f25-4304-b94f-0be96421241d" />
+- Product Page
+  <img width="616" height="1452" alt="image" src="https://github.com/user-attachments/assets/3166f1e7-0206-4f9d-9dca-47a2e6d965aa" />
+- Reward Page
+  <img width="377" height="1452" alt="image" src="https://github.com/user-attachments/assets/d52edbe0-93a2-4493-b3b9-f9b4a12222ef" />
+
+- About Us
+  <img width="710" height="346" alt="image" src="https://github.com/user-attachments/assets/76d1840f-0148-418d-8824-c201c2064fb0" />
+<img width="718" height="356" alt="image" src="https://github.com/user-attachments/assets/c59dcbee-8272-40f4-b31c-619b8fa0447b" />
+  <img width="711" height="386" alt="image" src="https://github.com/user-attachments/assets/61b3eba5-f871-442e-aa0c-9623cdff947f" />
+
+- Order Page
+<img width="744" height="399" alt="image" src="https://github.com/user-attachments/assets/ab024de0-fbc2-4497-b4e9-9d1ce049221a" />
+<img width="653" height="320" alt="image" src="https://github.com/user-attachments/assets/9ffa8dcb-7cb3-4b08-a770-e4f5df266840" />
 
 ## ✨ Features
 - Modern landing page
