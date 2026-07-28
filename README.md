@@ -1,6 +1,10 @@
 # eNVision – Optical Store Website
 A modern, responsive front-end website for an optical store that provides elegant and seamless online shopping experience. This project focuses on creating a clean, premium user interface.
 
+## 🌐 Live Web Demo
+Visit the site here:
+  https://mapogugugu.github.io/envision-eyewear/
+
 ## 📖 Overview
 eNVision was developed as a front-end web dev project to make a demo of a responsive web design, user interface design, and interactive web functionality using only HTML, CSS, and JavaScript. <br>
 
@@ -57,5 +61,4 @@ This project was developed to strengthen skills in:
 - Website Layout and Navigation
 - Interactive User Interfaces
 
-## 🌐 Web
-https://mapogugugu.github.io/envision-eyewear/
+
