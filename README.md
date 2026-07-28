@@ -2,7 +2,7 @@
 A modern, responsive front-end website for an optical store that provides elegant and seamless online shopping experience. This project focuses on creating a clean, premium user interface.
 
 ## 🌐 Live Web Demo
-Visit the site here:
+Visit the site here:<br>
   https://mapogugugu.github.io/envision-eyewear/
 
 ## 📖 Overview
